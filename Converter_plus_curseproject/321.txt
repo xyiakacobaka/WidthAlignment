@@ -1,0 +1,21 @@
+Àà, Áá, Â-
+â, Ãã, Ää,
+Åå, ¨¸, Æ-
+æ, Çç, Èè,
+Éé, Êê, Ë-
+ë, Ìì, Íí,
+Îî, Ïï, Ð-
+ð, Ññ, Òò,
+Óó, Ôô, Õ-
+õ, Öö, ×÷,
+Øø, Ùù, Ú-
+ú, Ûû, Üü,
+Ýý, Þþ, ß-
+ÿ.
+
+ABCDEFGHI-
+JKLMNOPQR-
+STUVWXYZa-
+bcdefghij-
+klmnopqrs-
+tuvwxyz
